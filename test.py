@@ -1,1 +1,1 @@
-print("Coba Satu ini")
+print("Coba Satu ini dan itu")
