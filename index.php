@@ -19,6 +19,11 @@
         quia quaerat facilis reiciendis minima facere! Obcaecati nemo
         et autem ex labore incidunt provident laborum esse quidem
         aliquid odit omnis, natus, repellat rerum?</p>
+    <ul>
+        <li>Satu</li>
+        <li>Dua</li>
+        <li>Tiga</li>
+    </ul>
 </body>
 
 </html>
