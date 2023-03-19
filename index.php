@@ -12,6 +12,13 @@
     <?php
     echo "<h1>Herro Warudo</h1>";
     ?>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing
+        elit. Ratione quam consectetur accusantium, numquam
+        a adipisci excepturi, perspiciatis voluptatibus inventore
+        tempore modi repellendus esse saepe vitae earum laboriosam
+        quia quaerat facilis reiciendis minima facere! Obcaecati nemo
+        et autem ex labore incidunt provident laborum esse quidem
+        aliquid odit omnis, natus, repellat rerum?</p>
 </body>
 
 </html>
